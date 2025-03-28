@@ -1,0 +1,21 @@
+# Ambiente virtual
+.env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de dados (se aplicável)
+*.json
+*.xlsx
+
+# Arquivos de configuração (se aplicável)
+*.ini
+*.config
+*.env
+
+# Outros arquivos temporários
+*.log
+*.tmp
